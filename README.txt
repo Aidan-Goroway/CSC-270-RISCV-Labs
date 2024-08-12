@@ -1,5 +1,9 @@
+This github README is a modified version of the one attached to the original submission:
+
+
+
 Hey John, here is my Track B submission.
-Its lab 5 + 6, the absolute bare minimum for the project.
+Its lab 5 + 6, the as required for the project.
 
 The main resources I used for this assignment were as follows:
 
